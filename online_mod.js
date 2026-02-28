@@ -117,7 +117,7 @@
     }
 
     function filmixHost$1() {
-      return 'https://filmix.my';
+      return 'https://filmix.lat';
     }
 
     function filmixAppHost() {
@@ -14902,3 +14902,4 @@
     startPlugin();
 
 })();
+
